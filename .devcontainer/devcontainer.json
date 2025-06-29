@@ -19,7 +19,11 @@
 		"vscode": {
 			"extensions": [
 				"GitHub.copilot-chat",
-				"saoudrizwan.claude-dev"
+				"saoudrizwan.claude-dev",
+				"piousdeer.adwaita-theme",
+				"hediet.vscode-drawio",
+				"GitHub.remotehub",
+				"vadimcn.vscode-lldb"
 			]
 		}
 	}
